@@ -1,6 +1,5 @@
 
-[![MasterHead](https://media4.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif?cid=ecf05e47os0qzhgiruokvc1ivzqkxa3j14e52bnj1j5k3p0j&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
-
+[![MasterHead](https://media4.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif?cid=ecf05e47vbieufjfn40j1k0bl9r418u7nx45dc48icuq6zpa&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://your-personal-website.com)
 
 <h1 align="center">Hi 👋, I'm Sergey Rachuk</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3> 
