@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 How to reach me **eregarachuk20@gmail.com**
+- 📫 How to reach me seregarachuk20@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
