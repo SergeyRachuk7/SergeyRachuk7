@@ -1,5 +1,8 @@
 
-[![MasterHead](https://media4.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif?cid=ecf05e47vbieufjfn40j1k0bl9r418u7nx45dc48icuq6zpa&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://your-personal-website.com)
+<p align="center">
+  <img align="center" src="https://media4.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif?cid=ecf05e47vbieufjfn40j1k0bl9r418u7nx45dc48icuq6zpa&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="animated image" style="display: block; margin: 0 auto;" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Sergey Rachuk</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3> 
