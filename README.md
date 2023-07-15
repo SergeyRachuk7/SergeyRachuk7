@@ -60,7 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact" alt="sergeyRachuk7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" alt="sergeyRachuk7" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" alt="sergeyRachuk7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyRachuk7&" alt="sergeyRachuk7" /></p>
 
