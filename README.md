@@ -58,9 +58,19 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact"  width="400" height="300"  alt="sergeyRachuk7" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" width="500" height="300"  alt="sergeyRachuk7" /></p>
+
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact" width="400" alt="sergeyRachuk7" />
+  </p>
+  <p style="flex: 1;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" width="500" alt="sergeyRachuk7" />
+  </p>
+</div>
+
+
+
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyRachuk7&" width="500" alt="sergeyRachuk7" /></p>
 
