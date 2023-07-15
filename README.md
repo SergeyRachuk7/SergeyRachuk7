@@ -58,7 +58,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact" width="400" alt="sergeyRachuk7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact" height="350" width="400" alt="sergeyRachuk7" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" width="500" alt="sergeyRachuk7" /></p>
 
