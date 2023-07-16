@@ -66,8 +66,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyRachuk7&theme=highcontrast" width="500" alt="sergeyRachuk7" />
+</p>
 
 
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyRachuk7&" width="500" alt="sergeyRachuk7" /></p>
 
