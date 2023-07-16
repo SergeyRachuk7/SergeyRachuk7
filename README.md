@@ -61,9 +61,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="400" height="300" alt="sergeyRachuk7" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en&theme=highcontrast" width="500" height="300" alt="sergeyRachuk7" />
+</p>
 
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyRachuk7&show_icons=true&locale=en" width="500" height="300"  alt="sergeyRachuk7" /></p>   
+
+
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyRachuk7&" width="500" alt="sergeyRachuk7" /></p>
 
