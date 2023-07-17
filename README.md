@@ -57,6 +57,10 @@
   </a>
 </p> 
 
+
+<h3 align="center">📊 Statistics</h3>
+  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyRachuk7&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="400" height="250" alt="sergeyRachuk7" />
 </p>
