@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/@questions--answers-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="way to it" height="50" width="50" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">⚙️Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
