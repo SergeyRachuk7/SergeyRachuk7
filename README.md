@@ -10,6 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyrachuk&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyrachuk" /> </p>
 
+<p>   <img src="https://data.bloggif.com/distant/user/store/1/5/4/a/1bbaaa53e2eb5a7511735fac6aeca451.gif" alt="" width="120"
+    height="120" />   </p>
+
 - 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me seregarachuk20@gmail.com
