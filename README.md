@@ -13,7 +13,7 @@
 <p>   <img src="https://data.bloggif.com/distant/user/store/1/5/4/a/1bbaaa53e2eb5a7511735fac6aeca451.gif" alt="" width="120"
     height="120" />   </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me seregarachuk20@gmail.com
 
