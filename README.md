@@ -58,8 +58,8 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 </a>
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_XD_CC_icon.svg" alt="xd" width="30" height="30"/>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30"/>
 </a>
 </p> 
 
